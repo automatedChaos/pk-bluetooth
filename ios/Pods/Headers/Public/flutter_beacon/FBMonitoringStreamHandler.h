@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/flutter_beacon/ios/Classes/FBMonitoringStreamHandler.h
